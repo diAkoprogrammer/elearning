@@ -100,8 +100,6 @@
 			<p class="text-center">
 				<b style = "font-size: 40px">Welcome to</b>
 				<br>
-				<b style = "font-size: 25px">Pateros Technological College </b>
-				<br>
 				<b style = "font-size: 25px">PTCians Portal</b>
 			</p>
 			<hr class="border-info">
